@@ -11,6 +11,8 @@ function App() {
       {/* <Lesson_02 /> */}
       {/* HOMEWORKS */}
       <Homework_02 />
+      <Homework_02 />
+      <Homework_02 />
     </>
   );
 }
