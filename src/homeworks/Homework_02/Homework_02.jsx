@@ -1,4 +1,4 @@
-import SimpsonsCard from "../../components/SimpsonsCard/SimpsonsCard";
+// import SimpsonsCard from "../../components/SimpsonsCard/SimpsonsCard";
 import "./styles.css";
 
 function Homework_02() {
