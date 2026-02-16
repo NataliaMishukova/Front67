@@ -61,7 +61,6 @@ function Lesson_05() {
         <h1 className="menu">Menu:</h1>
         <div className="button_wrapper">
             {buttons.map(buttons => (
-            //   <li key={buttons}>{buttons}</li>
             <div key={buttons.id} className="button_control">
               <Button  name={buttons.name} onClick={() => addMenuElement(buttons.name)} />
             </div>
